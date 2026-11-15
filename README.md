@@ -2,7 +2,7 @@
 
 Nations Championship 2026 fantasy planner with a match predictor, Monte Carlo season simulator and Grand Final picker.
 
-Updated 8 November 2026: rounds 1–4 results are locked into the standings, simulator and Grand Final picker, team ratings are refreshed via the World Rugby exchange formula, and the planner now covers Round 5 (13–15 November) with a form-led recommended squad.
+Updated 15 November 2026: rounds 1–5 results are locked into the standings, simulator and Grand Final picker, team ratings are refreshed via the World Rugby exchange formula, and the planner now covers Round 6, the final league round (21 November), with a form-led recommended squad.
 
 - **Fantasy planner** — rules-checked 16-player squad builder inside 100M, with form-led recommendations per round. Played rounds show the results and a review of how the shouts landed.
 - **Predictor** — rounds 1–3 results locked in; enter scores and tries for the remaining 18 fixtures and conference standings update live using World Rugby bonus points.
